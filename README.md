@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RuslanKuchmynda
+- 👀 I’m working on the e-zbir project
+- 🌱 I’m currently learning NextJs, TypeScript
