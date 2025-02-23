@@ -24,10 +24,13 @@
 
 ## 📊 **My GitHub Activity**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanKuchmynda&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanKuchmynda&show_icons=true&count_private=true&hide=prs,stars&hide_title=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanKuchmynda&hide_progress=false&theme=radical)
 ---
 
 ## 📫 How to reach me:
 
 [LinkedIn](https://www.linkedin.com/in/kuchmynda) | [Email](mailto:ruslankuchmynda@gmail.comm)
+
+
