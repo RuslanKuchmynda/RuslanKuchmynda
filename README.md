@@ -4,7 +4,7 @@
 
 ### QuantumCode
 
-[QuantumCode](https://github.com/yourusername/quantumcode) - A platform to solve coding problems and improve your skills.
+[QuantumCode](https://github.com/RuslanKuchmynda/quantumcode) - A platform to solve coding problems and improve your skills.
 
 ## 🚀 Tech Stack
 
